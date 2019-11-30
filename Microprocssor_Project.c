@@ -1,8 +1,7 @@
 /*
- * GccApplication19.c
- *
- * Created: 11/30/2019 3:14:43 PM
- * Author : tompa
+ *    Filename: Microprocessor_Project.c
+ *      Author: Tom Painadath
+ * Description: 
  */ 
 
 
