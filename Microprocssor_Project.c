@@ -1,7 +1,6 @@
 /*
  *    Filename: Microprocessor_Project.c
  *      Author: Tom Painadath
- * Description: 
  */ 
 
 
